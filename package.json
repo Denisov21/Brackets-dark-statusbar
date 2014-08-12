@@ -1,0 +1,12 @@
+{
+    "name": "mindspread.darkstatusbar",
+    "title": "Brackets Dark Status Bar",
+    "description": "A dark style for the bottom status bar.",
+    "homepage": "https://github.com/mindspread/Brackets-dark-statusbar",
+    "version": "1.0.0",
+    "author": "Chris Reed <chris@chrisreed.info>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    }
+}
